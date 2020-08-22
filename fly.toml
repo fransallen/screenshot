@@ -1,4 +1,4 @@
-app = "statically-screenshot"
+app = "shot"
 
 
 [[services]]
